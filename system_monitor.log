@@ -1,0 +1,22 @@
+
+---------------------------------------- System Information ----------------------------------------
+Hostname        : DESKTOP-CCV0DMO
+IP Address      : 172.30.176.1
+Uptime          : up 2 minutes
+Operating System: Ubuntu 22.04.5 LTS
+Kernel Version  : 4.4.0-19041-Microsoft
+Architecture    : x86_64
+Processor       : Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+CPU Cores       : 4
+Total RAM       : 7.9Gi
+
+------------------------------------------ Resource Usage ------------------------------------------
+CPU Usage       : 19.7%
+Memory Usage    : 79.1581%
+-------------------------------------------- Disk Usage --------------------------------------------
+  User   : 9.37%
+  System : 0.00%
+  Iowait : 7.07%
+  Idle   : 83.55%
+
+System status: All systems are operating within normal parameters.

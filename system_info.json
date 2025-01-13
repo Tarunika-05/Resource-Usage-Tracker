@@ -1,0 +1,19 @@
+{
+    "hostname": "DESKTOP-CCV0DMO",
+    "ip_address": "172.30.176.1",
+    "uptime": "up 2 minutes",
+    "os_info": "Ubuntu 22.04.5 LTS",
+    "kernel_version": "4.4.0-19041-Microsoft",
+    "architecture": "x86_64",
+    "processor": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+    "cpu_cores": "4",
+    "total_ram": "7.9Gi",
+    "cpu_usage": "19.7%",
+    "memory_usage": "79.1581%",
+    "disk_usage": {
+        "user": "9.37%",
+        "system": "0.00%",
+        "iowait": "7.07%",
+        "idle": "83.55%"
+    }
+}
